@@ -1,0 +1,2 @@
+# JavaCreateObjectMethods
+总结Java中创建对象的多种方式
